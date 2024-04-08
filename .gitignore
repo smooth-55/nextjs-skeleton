@@ -1,0 +1,13 @@
+**/.next/**
+.env
+**/node_modules/**
+yarn-error.log
+packages/*/package-lock.json
+build
+owner-dist
+consumer-dist
+**/.DS_Store
+/.idea
+/.idea/**
+yarn.lock
+package-lock.json
